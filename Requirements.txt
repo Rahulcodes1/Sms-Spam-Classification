@@ -1,0 +1,17 @@
+# Libraries for data preprocessing and analysis
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
+seaborn==0.11.2
+scikit-learn==0.24.2
+nltk==3.6.3
+wordcloud==1.8.1
+plotly==5.3.1
+xgboost==1.5.0
+scipy==1.7.1
+
+# Library for text processing
+nltk_data==1.0.2
+
+# Library for interacting with GitHub API
+PyGithub==1.55
